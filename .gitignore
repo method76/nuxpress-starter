@@ -12,3 +12,8 @@ dist
 
 # Backpack build
 build
+
+package-lock.json
+.idea
+node_modules
+*.bak
